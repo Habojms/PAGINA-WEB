@@ -38,7 +38,7 @@ jobs:
       # - name: QA
       #   run: npm run test
 
-     - name: Verificación de Variables de Entorno
+      - name: Verificación de Variables de Entorno
         run: echo "DEPLOY_BASE_URL -> $DEPLOY_BASE_URL"
         
 
