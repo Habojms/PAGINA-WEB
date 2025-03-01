@@ -1,5 +1,5 @@
 {
-  "name": "sabadovite",
+  "name": "pw2_sabados",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "less": "^4.2.2",
     "vite": "^6.1.0"
   }
 }
