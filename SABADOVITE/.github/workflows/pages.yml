@@ -54,6 +54,6 @@ jobs:
 
       - name: Publicar el sitio
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses:  actions/deploy-pages@v4
 
                   
